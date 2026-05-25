@@ -1,4 +1,9 @@
-# Location Intelligence ADK Agent with MCP Servers
+# Location Intelligence ADK Agent with MCP Servers 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Google ADK](https://img.shields.io/badge/Google-ADK-green)
+![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro-orange)
+![MCP](https://img.shields.io/badge/MCP-Integrated-purple)
+![BigQuery](https://img.shields.io/badge/BigQuery-Analytics-blue)
 
 Built an AI-powered bakery intelligence agent using Google ADK, BigQuery, Google Maps, MCP servers, and Gemini 3.1 Pro.
 
@@ -395,3 +400,32 @@ using:
 - BigQuery
 - Google Maps
 - Google ADK
+
+---
+
+# Certifications & Event Participation
+
+This project was built as part of the AI Agent Builder ecosystem and hands-on ADK + MCP learning initiatives.
+
+## Build with AI Agent Builder Camp Certificate
+
+<img width="590" height="412" alt="image" src="https://github.com/user-attachments/assets/dc7e7a0c-b867-4d45-adf8-1cf2bc68f7d2" />
+
+
+---
+
+## Build with AI 2026 Attendee Badge
+
+<img width="1453" height="700" alt="Screenshot from 2026-05-25 21-39-22" src="https://github.com/user-attachments/assets/1649380d-3b6f-42d8-8279-4c9b39dd7d40" />
+
+
+---
+
+These programs focused on:
+
+- AI agent development
+- Google ADK workflows
+- MCP integrations
+- Gemini-powered reasoning systems
+- Multi-tool orchestration
+- Real-world AI applications
